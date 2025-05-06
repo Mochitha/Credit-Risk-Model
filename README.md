@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4d1aeb4c-1d9f-480a-8c54-ed2f55dec387" width="500"/>
+  <img src="https://github.com/user-attachments/assets/a300052a-eb44-4c32-b9b0-f5d24c5640da" width="500"/>
 </div>
 
 Empowering smarter credit decisions with explainable ML-based risk predictions.
