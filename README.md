@@ -38,13 +38,13 @@ streamlit run main.py
 ```
 
 ✅ Features
-####🧠 Intelligent credit risk classification
+ -🧠 Intelligent credit risk classification
 
-####💡 Inspired by real-world scoring frameworks (like CIBIL)
+ -💡 Inspired by real-world scoring frameworks (like CIBIL)
 
-####🖥️ Clean, interactive user interface via Streamlit
+ -🖥️ Clean, interactive user interface via Streamlit
 
-####📦 Modular codebase for easy customization and enhancement
+ -📦 Modular codebase for easy customization and enhancement
 
 
 🤝 Feedback & Contributions
