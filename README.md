@@ -1,4 +1,7 @@
-💳 Credit Risk Model
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4d1aeb4c-1d9f-480a-8c54-ed2f55dec387" width="500"/>
+</div>
+
 Empowering smarter credit decisions with explainable ML-based risk predictions.
 
 
