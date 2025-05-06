@@ -21,14 +21,6 @@ Click below to access the deployed Streamlit app:
 ├── StreamlitUI.png           # Screenshot of the UI
 └── .gitignore                # Files and folders to ignore in version control
 ```
-📊 Model Info
-To improve prediction accuracy and usability:
-
-A classification model was trained using features like income, loan amount, credit history, tenure, etc.
-
-Feature preprocessing includes encoding categorical values and normalization, where needed.
-
-The model outputs a risk category inspired by the logic behind the CIBIL score ranges.
 
 ⚡ Quick Start
 1. Clone the Repository
@@ -46,13 +38,13 @@ streamlit run main.py
 ```
 
 ✅ Features
-🧠 Intelligent credit risk classification
+####🧠 Intelligent credit risk classification
 
-💡 Inspired by real-world scoring frameworks (like CIBIL)
+####💡 Inspired by real-world scoring frameworks (like CIBIL)
 
-🖥️ Clean, interactive user interface via Streamlit
+####🖥️ Clean, interactive user interface via Streamlit
 
-📦 Modular codebase for easy customization and enhancement
+####📦 Modular codebase for easy customization and enhancement
 
 
 🤝 Feedback & Contributions
