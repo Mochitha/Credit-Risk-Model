@@ -54,6 +54,7 @@ streamlit run main.py
 
 📦 Modular codebase for easy customization and enhancement
 
+
 🤝 Feedback & Contributions
 Feel free to:
 
@@ -62,6 +63,7 @@ Feel free to:
 🛠️ Raise issues for bugs, ideas, or enhancements
 
 📬 Submit pull requests for contributions
+
 
 📜 License
 Licensed under the Apache 2.0 License.
