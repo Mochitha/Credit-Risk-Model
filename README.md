@@ -10,7 +10,7 @@ Click below to access the deployed Streamlit app:
 👉 Launch the App https://credit-risk-model-machine-learning.streamlit.app/
 
 📁 Project Structure
-.
+ ```commandline
 ├── artifacts/                # Directory for trained model
 │   └── model_data.joblib     # Serialized trained model object
 ├── main.py                   # Streamlit app entry point
@@ -20,6 +20,7 @@ Click below to access the deployed Streamlit app:
 ├── LICENSE                   # License information
 ├── StreamlitUI.png           # Screenshot of the UI
 └── .gitignore                # Files and folders to ignore in version control
+```
 📊 Model Info
 To improve prediction accuracy and usability:
 
@@ -31,14 +32,18 @@ The model outputs a risk category inspired by the logic behind the CIBIL score r
 
 ⚡ Quick Start
 1. Clone the Repository
+```bash
 git clone https://github.com/mochitha/credit-risk-model.git
 cd credit-risk-model
-
-2. Install Dependencies
+```
+3. Install Dependencies
+```commandline
 pip install -r requirements.txt
-
-3. Run the Streamlit App
+```
+5. Run the Streamlit App
+```commandline
 streamlit run main.py
+```
 
 ✅ Features
 🧠 Intelligent credit risk classification
