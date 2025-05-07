@@ -1,9 +1,9 @@
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/80dec6cf-7919-47fd-830d-0b617ff43723" width="1000"/>
+  <img src="https://github.com/user-attachments/assets/e5aec09c-2250-4118-a4b2-9fe3c9993c7d" width="1000"/>
 </div>
 
-Empowering smarter credit decisions with explainable ML-based risk predictions.
+
 
 
 This repository presents a machine learning–powered credit scoring system that predicts loan applicant risk categories—poor, Average, Good, and Excellent—based on financial and demographic indicators. Inspired by the CIBIL score methodology, the model aids in evaluating creditworthiness with transparency and interpretability.
